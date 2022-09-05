@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "helo-dev-c65d1"
+    "dev": "helo-dev-c65d1",
+    "prod": "helo-prod"
   }
 }

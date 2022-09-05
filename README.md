@@ -9,6 +9,22 @@ Quickly smoketest your startup ideas
 curl -sL firebase.tools | bash
 ```
 
+- Install java
+
+- Initialize firebase
+
+```bash
+firebase init
+```
+
+## Development
+
+- Start firebase backend locally
+
+```bash
+firebase emulators:start
+```
+
 ## TODO
 
 - create FB adds automatically from uploading jpeg
